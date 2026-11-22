@@ -1,5 +1,7 @@
-# Pedido Operação — Android
+# Pedido Operação
 
-[Baixar APK](https://github.com/Marcos-Luan/pedido-operacao-download/raw/refs/heads/main/Pedido_Operacao.apk)
+[Baixar APK atualizado — relatórios e histórico](https://github.com/Marcos-Luan/pedido-operacao-download/raw/refs/heads/main/Pedido_Operacao_Relatorios.apk)
 
-Versão piloto: atendentes numerados, configuração de impressão Bluetooth e Wi-Fi, ajuste de altura das letras. Requer conta autorizada. Antes de substituir versões piloto anteriores, sincronize todos os pedidos pendentes.
+Relatório por turno e atendente, histórico separado e cards por status. Nova assinatura: sincronize os pedidos pendentes antes de desinstalar a versão piloto antiga, se a instalação sobre ela for recusada.
+
+[Versão piloto anterior](https://github.com/Marcos-Luan/pedido-operacao-download/raw/refs/heads/main/Pedido_Operacao.apk)

@@ -1,9 +1,11 @@
 # PedidosOn Tablet
 
-[Baixar PedidosOn Tablet v27](https://github.com/Marcos-Luan/pedido-operacao-download/raw/refs/heads/main/Pedido_Operacao_Relatorios.apk)
+[Baixar PedidosOn Tablet v28](https://github.com/Marcos-Luan/pedido-operacao-download/raw/refs/heads/main/Pedido_Operacao_Relatorios.apk)
 
-A v27 atualiza o PedidosOn Tablet v26. Em **Equipe**, o gerente pode excluir garçons e
-usuários da cozinha do próprio restaurante. Os pedidos e relatórios são preservados.
+A v28 atualiza as versões anteriores do **PedidosOn Tablet**. O gerente pode entrar
+com **código master e PIN** nos aparelhos ativados. Para configurar, escolha
+**Gerente → Ativar ou recuperar acesso neste aparelho**, entre na conta atual e
+abra **Configurações → Código do gerente**.
 
 Em uma instalação nova, um gerente precisa vincular o tablet ao restaurante.
 Depois, selecione a impressora Bluetooth principal na lista do aplicativo.
@@ -13,4 +15,4 @@ Se houver pedidos pendentes no app antigo, sincronize-os por lá. A fila offline
 fica no aplicativo em que os pedidos foram criados.
 
 Pacote Android: `br.com.pedido.operacao.tablet`  
-SHA-256 do APK: `26623d999317707870516a8b6033a30a408e8da1e2fad32f4d960c14b6cc7550`
+SHA-256 do APK: `9764dfef253aacc5f830a1df4cfdb039d12bdc1ed3b8749e9e0afc706dcb99c2`
